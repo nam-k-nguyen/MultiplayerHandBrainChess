@@ -10,12 +10,12 @@ As a player within a chess community, I want to introduce this game mode to my f
 
 ## Design Diagram D0:
 
-![Level 0 Design Diagram](/SeniorDesignInfo/DesignDiagrams/Level0.png)
+![Level 0 Design Diagram](https://github.com/nam-k-nguyen/MultiplayerHandBrainChess/blob/main/SeniorDesignDetails/DesignDiagrams/Level0.png)
 
 ## Design Diagram D1:
 
-![Level 1 Design Diagram](/SeniorDesignInfo/DesignDiagrams/Level1.png)
+![Level 1 Design Diagram](https://github.com/nam-k-nguyen/MultiplayerHandBrainChess/blob/main/SeniorDesignDetails/DesignDiagrams/Level1.png)
 
 ## Design Diagram D2:
 
-![Level 2 Design Diagram](/SeniorDesignInfo/DesignDiagrams/Level2.png)
+![Level 2 Design Diagram](https://github.com/nam-k-nguyen/MultiplayerHandBrainChess/blob/main/SeniorDesignDetails/DesignDiagrams/Level2.png)
